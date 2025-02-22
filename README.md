@@ -15,7 +15,7 @@ Gas Service API is a **Django Rest Framework (DRF)** project that manages custom
 - Token-based Authentication (DRF)
 
 ## 🔥How This Project Overcomes the Problem Statement
-✅ **Online Service Requests: Customers can raise requests via API instead of calling or visiting. **
+✅ **Online Service Requests: Customers can raise requests via API instead of calling or visiting.**
 
 ✅ **Authentication & Authorization: Only authenticated users can request services, ensuring security.**
 
