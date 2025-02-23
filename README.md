@@ -1,7 +1,8 @@
 # Gas Service API 🚀
 
 ## 📌 Overview
-Gas Service API is a **Django Rest Framework (DRF)** project that manages customer requests for gas services efficiently.
+Gas Service Management System
+This project is a **Django-based** API that facilitates **gas service management**, allowing users to raise **service requests**, **track their status**, and **manage customers**. The system ensures seamless interaction between service **providers and customers**, addressing common challenges in traditional gas service management.
 
 ## 🔥 Features
 ✅ **Customer Management**  
@@ -10,9 +11,9 @@ Gas Service API is a **Django Rest Framework (DRF)** project that manages custom
 ✅ **RESTful API with DRF**  
 
 ## ⚙️ Tech Stack
-- Django & Django REST Framework (DRF)
-- SQLite (pymysql)
-- Token-based Authentication (DRF)
+- Backend: Django, Django REST Framework (DRF)
+- Database: SQLite (pymysql)
+- Authentication: Token-Based Authentication (DRF)
 
 ## 🔥How This Project Overcomes the Problem Statement
 ✅ **Online Service Requests: Customers can raise requests via API instead of calling or visiting.**
@@ -22,6 +23,10 @@ Gas Service API is a **Django Rest Framework (DRF)** project that manages custom
 ✅ **Status Tracking: Users get real-time updates on service request progress.**
 
 ✅ **Admin Dashboard: Administrators can manage customer requests efficiently via the Django admin panel.**
+
+
+**For More Information view -**
+Link - https://docs.google.com/document/d/1BeWj02tTVy11bCirC6eBTY3bax-P8Y1_H-uWDAzfY64/edit?usp=sharing
 
 ## 🛠️ Installation
 
